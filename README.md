@@ -14,13 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- <div>
-  <a href="https://github.com/rafaballerini">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula"/>
-</div>
 
-### Seja bem vindo ao meu git 😄
+
+### Olá, meu nome é Gabriel Sanches e seja bem vindo ao meu git!! 😄
  <div>
   <a href="https://github.com/GabrielSan99">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=GabrielSan99&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
@@ -28,18 +24,26 @@ Here are some ideas to get you started:
 </div>
 
 ##
-
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.13.0/devicon.min.css">
 <div style="display: inline_block"><br>
-  <img align="center" alt="Gabriel-Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Gabriel-CPP" height="50" width="50" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg">
-  <img align="center" alt="Gabriel-Java" height="50" width="50" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg">
-  <!-- <img align="right" alt="Gabriel-walle" src="https://c.tenor.com/s3qM34cMY08AAAAC/walle-pixar.gif" width="250"> -->
+  <img align="center" alt="Gabriel-Python" height="50" width="50" hspace="8" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Gabriel-CPP" height="50" width="50" hspace="8" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg">
+  <img align="center" alt="Gabriel-Java" height="50" width="50" hspace="8" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg">
+  <img align="center" alt="Gabriel-Arduino" height="50" width="50" hspace="8" src="https://cdn.icon-icons.com/icons2/159/PNG/256/arduino_22429.png">
+  <img align="center" alt="Gabriel-Flask" height="50" width="50" hspace="8" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg">
+  <img align="center" alt="Gabriel-Flask" height="50" width="50" hspace="8" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg">
+  <img i class="devicon-flask-original"></i>
+ 
+ 
+ 
+ <!-- <img align="right" alt="Gabriel-walle" src="https://c.tenor.com/s3qM34cMY08AAAAC/walle-pixar.gif" width="250"> -->
   <img align="right" alt="Gabriel-slowpoke" src="http://i.stack.imgur.com/SBv4T.gif" width="250">
 
-  
- 
 </div>
-<!--  
+
+ 
+ 
+ <!--  
   ##
  
 <div> 
