@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **GabrielSan99/GabrielSan99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-## Seja bem vindo ao meu git 😄
+### Seja bem vindo ao meu git 😄
  <div>
   <a href="https://github.com/GabrielSan99">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielSan99&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
@@ -26,11 +26,11 @@ Here are some ideas to get you started:
 ##
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Gabriel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Gabriel-CPP" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg">
-  <img align="center" alt="Gabriel-Java" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg">
+  <img align="center" alt="Gabriel-Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Gabriel-CPP" height="50" width="50" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg">
+  <img align="center" alt="Gabriel-Java" height="50" width="50" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg">
   <!-- <img align="right" alt="Gabriel-walle" src="https://c.tenor.com/s3qM34cMY08AAAAC/walle-pixar.gif" width="250"> -->
-  <img align="right" alt="Gabriel-slowpoke" src="http://i.stack.imgur.com/SBv4T.gif" width="180">
+  <img align="right" alt="Gabriel-slowpoke" src="http://i.stack.imgur.com/SBv4T.gif" width="250">
 
   
  
