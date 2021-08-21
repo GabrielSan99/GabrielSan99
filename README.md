@@ -25,19 +25,12 @@ Here are some ideas to get you started:
 
 ##
 
- <div style="display: inline_block"><br>
+<div style="display: inline_block"><br>
   <img align="center" alt="Gabriel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Gabriel-CPP" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg">
   <img align="center" alt="Gabriel-Java" height="30" width="40" src=https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg
-  <img src="http://i.stack.imgur.com/SBv4T.gif" alt="this slowpoke moves"  width="250" />
-  <img align="right" alt="Rafa-yoda" src="http://i.stack.imgur.com/SBv4T.gif">
-  <div class="tenor-gif-embed" data-postid="4809762" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/walle-pixar-robot-gif-4809762">Walle Pixar GIF</a>from <a href="https://tenor.com/search/walle-gifs">Walle GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-</div>
- 
- 
-<div style="display: inline_block"><br>
- <img align="center" alt="Rafa-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.13.0/devicon.min.css">
- 
+  <img align="right" alt="Gabriel-yoda" src="http://i.stack.imgur.com/SBv4T.gif" width="200">
+  
  
 </div>
 <!--  
