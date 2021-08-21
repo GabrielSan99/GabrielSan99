@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 ##
 <div> 
  <a href = "mailto:gabriel_j.sanches@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" hspace = "8" target="_blank"></a>
- <a href="www.linkedin.com/in/gabriel-josé-sanches" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" hspace = "15" target="_blank"></a> 
+ <a href="https://www.linkedin.com/in/gabriel-josé-sanches" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  
 </div>
  
