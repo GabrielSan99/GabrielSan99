@@ -29,7 +29,9 @@ Here are some ideas to get you started:
   <img align="center" alt="Gabriel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Gabriel-CPP" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg">
   <img align="center" alt="Gabriel-Java" height="30" width="40" src=https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg
-  <img align="right" alt="Rafa-yoda" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif">
+  <img src="http://i.stack.imgur.com/SBv4T.gif" alt="this slowpoke moves"  width="250" />
+  <img align="right" alt="Rafa-yoda" src="http://i.stack.imgur.com/SBv4T.gif">
+  <div class="tenor-gif-embed" data-postid="4809762" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/walle-pixar-robot-gif-4809762">Walle Pixar GIF</a>from <a href="https://tenor.com/search/walle-gifs">Walle GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 </div>
  
  
