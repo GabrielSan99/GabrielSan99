@@ -24,23 +24,24 @@ Here are some ideas to get you started:
 </div>
 
 ##
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.13.0/devicon.min.css">
 <div style="display: inline_block"><br>
   <img align="center" alt="Gabriel-Python" height="50" width="50" hspace="8" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Gabriel-CPP" height="50" width="50" hspace="8" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg">
   <img align="center" alt="Gabriel-Java" height="50" width="50" hspace="8" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg">
+  <i class="devicon-flask-original-wordmark"></i>
   <img align="center" alt="Gabriel-Arduino" height="50" width="50" hspace="8" src="https://cdn.icon-icons.com/icons2/159/PNG/256/arduino_22429.png">
-  <img align="center" alt="Gabriel-Flask" height="50" width="50" hspace="8" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg">
-  <img align="center" alt="Gabriel-Flask" height="50" width="50" hspace="8" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg">
-  <img i class="devicon-flask-original"></i>
- 
- 
- 
- <!-- <img align="right" alt="Gabriel-walle" src="https://c.tenor.com/s3qM34cMY08AAAAC/walle-pixar.gif" width="250"> -->
+  <img align="center" alt="Gabriel-Docker" height="50" width="50" hspace="8" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg">
+  
+  <!-- <img align="right" alt="Gabriel-walle" src="https://c.tenor.com/s3qM34cMY08AAAAC/walle-pixar.gif" width="250"> -->
   <img align="right" alt="Gabriel-slowpoke" src="http://i.stack.imgur.com/SBv4T.gif" width="250">
-
 </div>
 
+
+##
+<div> 
+ <a href="www.linkedin.com/in/gabriel-josé-sanches" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+</div>
  
  
  <!--  
@@ -52,7 +53,7 @@ Here are some ideas to get you started:
  	<a href="https://www.twitch.tv/rafaballerinii" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/G9GPg5SA75" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:contato@rafaballerini.tech"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="www.linkedin.com/in/gabriel-josé-sanches" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
